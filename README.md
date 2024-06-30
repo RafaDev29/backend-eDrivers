@@ -62,6 +62,8 @@ Para ejecutar este proyecto en tu entorno local, sigue los siguientes pasos:
 
 El backend expone varios endpoints para la gestión de choferes y vehículos. Estos endpoints están documentados y se pueden probar utilizando herramientas como Postman o cURL.
 
+![alt text](image.png)
+
 ## Contribuciones
 
 Si deseas contribuir al proyecto, por favor sigue estos pasos:
